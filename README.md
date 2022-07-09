@@ -35,3 +35,12 @@ Chương trình có các chức năng sau:
 Sau khi chỉnh sửa code, nhấn F12 sau đó nhấn F11 để build + run project.
 
 
+![image](https://user-images.githubusercontent.com/89791012/178114252-c7128795-259d-4613-b390-11f621bbdda4.png)
+![image](https://user-images.githubusercontent.com/89791012/178114261-c7d9bb7e-8b35-4a66-a91e-b07db55b2921.png)
+![image](https://user-images.githubusercontent.com/89791012/178114275-3fae8abb-52a8-42a4-843f-a022b2ae6d8b.png)
+![image](https://user-images.githubusercontent.com/89791012/178114287-873d408d-6065-411e-b9e1-87c5199df182.png)
+![image](https://user-images.githubusercontent.com/89791012/178114307-eef467d2-2924-45bb-93d7-f4eb88d53bf3.png)
+![image](https://user-images.githubusercontent.com/89791012/178114320-6abc4280-dbfa-45b7-bb66-4a2ddaccc447.png)
+![image](https://user-images.githubusercontent.com/89791012/178114328-b04b0159-df52-4291-a2fd-8ac10605bb29.png)
+![image](https://user-images.githubusercontent.com/89791012/178114342-17e31c7f-72b3-457f-8c4b-7197a7b86274.png)
+![image](https://user-images.githubusercontent.com/89791012/178114351-080762a3-4760-4d77-8c54-c346fdb87f76.png)
