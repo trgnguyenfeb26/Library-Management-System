@@ -24,7 +24,6 @@ Chương trình có các chức năng sau:
 2. Tải về và giải nén source code.
 3. Mở file `QLTV.dev` bằng DevC++ và run project.
 
-**Lưu ý:** Đồ án hiển thị trên màn hình Full HD (1920x1080), cỡ chữ 100%.
 
 # Một số phím tắt 
 ```
